@@ -17,10 +17,10 @@ https://www.youtube.com/watch?v=UlzFuua7fBY&list=PLWeYcGhnIKbg
 | LED2 | PA5 | GPIO Output |
 | LED3 | PA6 | GPIO Output |
 | LED4 | PA7 | GPIO Output |
-| Button1 | PB4 | EXTI Falling Edge |
-| Button2 | PB5 | EXTI Falling Edge |
-| Button3 | PB6 | EXTI Falling Edge |
-| Button4 | PB7 | EXTI Falling Edge |
+| Button1 | PB4 | EXTI Rising Edge |
+| Button2 | PB5 | EXTI Rising Edge |
+| Button3 | PB6 | EXTI Rising Edge |
+| Button4 | PB7 | EXTI Rising Edge |
 
 ## Features
 - GPIO Output
