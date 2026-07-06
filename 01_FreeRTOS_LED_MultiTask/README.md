@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-https://youtube.com/shorts/_bSGh-X4Ryw
+https://youtube.com/shorts/_bSGh-X4Ryw](https://www.youtube.com/watch?v=scLDuqXt2UU&list=PLWeYcGhnIKbg&index=2
 
 ## Hardware
 
