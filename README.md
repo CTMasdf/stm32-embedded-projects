@@ -83,7 +83,7 @@ The final goal of this project series is to build a **complete embedded systems 
 ## 📺 Demo Videos
 
 Each project includes a demo video showing hardware operation and system behavior.
-
+https://www.youtube.com/watch?v=_bSGh-X4Ryw&list=PLWeYcGhnIKbg&index=1
 ---
 
 ## 👨‍💻 Author
