@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=dyYU6o39anU&list=PLWeYcGhnIKbg&index=4
 ## Hardware
 - STM32F103C8T6 (Blue Pill)
 - 2 Slide Switch (Mode Select)
+- 4 Push Buttons
 - 4 LEDs
 - ST-LINK V2
 
